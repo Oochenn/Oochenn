@@ -1,4 +1,2 @@
-- 🌱 Currently learning web3 to make the transition from web2 to web3
-- 💞️ I’m looking to collaborate on opensource projects
 - 📫 oochen@protonmail.com
 - ⚡ Fun fact: There's no fun here only violence
