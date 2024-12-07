@@ -1,2 +1,1 @@
-- 📫 oochen@protonmail.com
-- ⚡ Fun fact: There's no fun here only violence
+
